@@ -19,8 +19,6 @@ toc_sticky: true
 ## 2. Streambuilder 중첩
   - Streambuilder를 중첩함으로써, 한 위젯을 만들 때 stream을 두 개 이상 사용할 수 있습니다.  
   - 아래는 stream을 두 개(stream1, stream2) 사용하는 예시입니다.  
-
-<br>
   ```
   StreamBuilder<QuerySnapshot>(
       stream: stream1,
