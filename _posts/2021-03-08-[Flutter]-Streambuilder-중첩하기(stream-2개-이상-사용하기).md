@@ -53,8 +53,6 @@ toc_sticky: true
   <br>
 
   1. Streambuilder  
-
-  <br>
   ```
   Streambuilder<QuerySnapshot>(
 
@@ -82,8 +80,6 @@ toc_sticky: true
   <br>
 
   1. buildWidget
-
-  <br>
   ```
   Widget buildWidget(DocumentSnapshot doc, DocumentSnapshot doc2){
       ... // ListView의 요소 작성
